@@ -36,7 +36,7 @@ This repo contains:
 
 ---
 
-## 🔧 Setup
+## 🔧 Setup (don't do it-- go to my other repo)
 
 ---
 
