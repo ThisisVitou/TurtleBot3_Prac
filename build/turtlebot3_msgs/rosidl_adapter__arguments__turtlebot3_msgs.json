@@ -1,0 +1,12 @@
+{
+  "package_name": "turtlebot3_msgs",
+  "non_idl_tuples": [
+    "/home/just-vitou/turtlebot3_workspace/src/turtlebot3_msgs:msg/SensorState.msg",
+    "/home/just-vitou/turtlebot3_workspace/src/turtlebot3_msgs:msg/Sound.msg",
+    "/home/just-vitou/turtlebot3_workspace/src/turtlebot3_msgs:msg/VersionInfo.msg",
+    "/home/just-vitou/turtlebot3_workspace/src/turtlebot3_msgs:srv/Sound.srv",
+    "/home/just-vitou/turtlebot3_workspace/src/turtlebot3_msgs:srv/Dqn.srv",
+    "/home/just-vitou/turtlebot3_workspace/src/turtlebot3_msgs:srv/Goal.srv",
+    "/home/just-vitou/turtlebot3_workspace/src/turtlebot3_msgs:action/Patrol.action"
+  ]
+}

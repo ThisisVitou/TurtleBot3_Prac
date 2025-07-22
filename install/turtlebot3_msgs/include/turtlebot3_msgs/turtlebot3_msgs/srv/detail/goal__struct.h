@@ -1,0 +1,1 @@
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_msgs/rosidl_generator_c/turtlebot3_msgs/srv/detail/goal__struct.h

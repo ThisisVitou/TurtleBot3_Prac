@@ -1,0 +1,36 @@
+[1.100s] Invoking command in '/home/just-vitou/turtlebot3_workspace/src/chinabug_nav': PYTHONPATH=/home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/chinabug_nav build --build-base /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build install --record /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/install.log --single-version-externally-managed install_data
+[1.495s] running egg_info
+[1.496s] creating ../build/chinabug_nav/chinabug_nav.egg-info
+[1.496s] writing ../build/chinabug_nav/chinabug_nav.egg-info/PKG-INFO
+[1.497s] writing dependency_links to ../build/chinabug_nav/chinabug_nav.egg-info/dependency_links.txt
+[1.497s] writing entry points to ../build/chinabug_nav/chinabug_nav.egg-info/entry_points.txt
+[1.497s] writing requirements to ../build/chinabug_nav/chinabug_nav.egg-info/requires.txt
+[1.497s] writing top-level names to ../build/chinabug_nav/chinabug_nav.egg-info/top_level.txt
+[1.497s] writing manifest file '../build/chinabug_nav/chinabug_nav.egg-info/SOURCES.txt'
+[1.501s] reading manifest file '../build/chinabug_nav/chinabug_nav.egg-info/SOURCES.txt'
+[1.503s] writing manifest file '../build/chinabug_nav/chinabug_nav.egg-info/SOURCES.txt'
+[1.503s] running build
+[1.503s] running build_py
+[1.504s] creating /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build
+[1.504s] creating /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build/lib
+[1.504s] creating /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build/lib/chinabug_nav
+[1.504s] copying chinabug_nav/laserscan.py -> /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build/lib/chinabug_nav
+[1.504s] copying chinabug_nav/__init__.py -> /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build/lib/chinabug_nav
+[1.505s] running install
+[1.505s] running install_lib
+[1.507s] creating /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/lib/python3.10/site-packages/chinabug_nav
+[1.507s] copying /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build/lib/chinabug_nav/laserscan.py -> /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/lib/python3.10/site-packages/chinabug_nav
+[1.507s] copying /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build/lib/chinabug_nav/__init__.py -> /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/lib/python3.10/site-packages/chinabug_nav
+[1.509s] byte-compiling /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/lib/python3.10/site-packages/chinabug_nav/laserscan.py to laserscan.cpython-310.pyc
+[1.511s] byte-compiling /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/lib/python3.10/site-packages/chinabug_nav/__init__.py to __init__.cpython-310.pyc
+[1.511s] running install_data
+[1.511s] creating /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/share/ament_index
+[1.511s] creating /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/share/ament_index/resource_index
+[1.511s] creating /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/share/ament_index/resource_index/packages
+[1.512s] copying resource/chinabug_nav -> /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/share/ament_index/resource_index/packages
+[1.512s] copying package.xml -> /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/share/chinabug_nav
+[1.512s] running install_egg_info
+[1.516s] Copying ../build/chinabug_nav/chinabug_nav.egg-info to /home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/lib/python3.10/site-packages/chinabug_nav-0.0.0-py3.10.egg-info
+[1.517s] running install_scripts
+[1.552s] writing list of installed files to '/home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/install.log'
+[1.590s] Invoked command in '/home/just-vitou/turtlebot3_workspace/src/chinabug_nav' returned '0': PYTHONPATH=/home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/just-vitou/turtlebot3_workspace/src/install/chinabug_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/chinabug_nav build --build-base /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/build install --record /home/just-vitou/turtlebot3_workspace/src/build/chinabug_nav/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating chinabug_nav.egg-info
+writing chinabug_nav.egg-info/PKG-INFO
+writing dependency_links to chinabug_nav.egg-info/dependency_links.txt
+writing entry points to chinabug_nav.egg-info/entry_points.txt
+writing requirements to chinabug_nav.egg-info/requires.txt
+writing top-level names to chinabug_nav.egg-info/top_level.txt
+writing manifest file 'chinabug_nav.egg-info/SOURCES.txt'
+reading manifest file 'chinabug_nav.egg-info/SOURCES.txt'
+writing manifest file 'chinabug_nav.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/lib/python3.10/site-packages/chinabug-nav.egg-link (link to .)
+
+Installed /home/just-vitou/turtlebot3_workspace/build/chinabug_nav
+running symlink_data
+creating /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/ament_index
+creating /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/ament_index/resource_index
+creating /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/ament_index/resource_index/packages
+symbolically linking /home/just-vitou/turtlebot3_workspace/build/chinabug_nav/resource/chinabug_nav -> /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/ament_index/resource_index/packages
+symbolically linking /home/just-vitou/turtlebot3_workspace/build/chinabug_nav/package.xml -> /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/chinabug_nav

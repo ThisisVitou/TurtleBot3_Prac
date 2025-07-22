@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/chinabug_nav/chinabug_nav.egg-info/PKG-INFO
+../build/chinabug_nav/chinabug_nav.egg-info/SOURCES.txt
+../build/chinabug_nav/chinabug_nav.egg-info/dependency_links.txt
+../build/chinabug_nav/chinabug_nav.egg-info/entry_points.txt
+../build/chinabug_nav/chinabug_nav.egg-info/requires.txt
+../build/chinabug_nav/chinabug_nav.egg-info/top_level.txt
+../build/chinabug_nav/chinabug_nav.egg-info/zip-safe
+chinabug_nav/__init__.py
+chinabug_nav/laserscan.py
+resource/chinabug_nav
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

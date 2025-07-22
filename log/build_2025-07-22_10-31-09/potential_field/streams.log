@@ -1,0 +1,23 @@
+[3.252s] Invoking command in '/home/just-vitou/turtlebot3_workspace/build/potential_field': PYTHONPATH=/home/just-vitou/turtlebot3_workspace/build/potential_field/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/just-vitou/turtlebot3_workspace/install/potential_field/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/just-vitou/turtlebot3_workspace/build/potential_field/build --no-deps symlink_data
+[4.929s] running develop
+[6.161s] running egg_info
+[6.166s] creating potential_field.egg-info
+[6.166s] writing potential_field.egg-info/PKG-INFO
+[6.167s] writing dependency_links to potential_field.egg-info/dependency_links.txt
+[6.167s] writing entry points to potential_field.egg-info/entry_points.txt
+[6.168s] writing requirements to potential_field.egg-info/requires.txt
+[6.168s] writing top-level names to potential_field.egg-info/top_level.txt
+[6.168s] writing manifest file 'potential_field.egg-info/SOURCES.txt'
+[6.172s] reading manifest file 'potential_field.egg-info/SOURCES.txt'
+[6.178s] writing manifest file 'potential_field.egg-info/SOURCES.txt'
+[6.183s] running build_ext
+[6.185s] Creating /home/just-vitou/turtlebot3_workspace/install/potential_field/lib/python3.10/site-packages/potential-field.egg-link (link to .)
+[6.197s] 
+[6.198s] Installed /home/just-vitou/turtlebot3_workspace/build/potential_field
+[6.203s] running symlink_data
+[6.203s] creating /home/just-vitou/turtlebot3_workspace/install/potential_field/share/ament_index
+[6.204s] creating /home/just-vitou/turtlebot3_workspace/install/potential_field/share/ament_index/resource_index
+[6.205s] creating /home/just-vitou/turtlebot3_workspace/install/potential_field/share/ament_index/resource_index/packages
+[6.206s] symbolically linking /home/just-vitou/turtlebot3_workspace/build/potential_field/resource/potential_field -> /home/just-vitou/turtlebot3_workspace/install/potential_field/share/ament_index/resource_index/packages
+[6.212s] symbolically linking /home/just-vitou/turtlebot3_workspace/build/potential_field/package.xml -> /home/just-vitou/turtlebot3_workspace/install/potential_field/share/potential_field
+[6.522s] Invoked command in '/home/just-vitou/turtlebot3_workspace/build/potential_field' returned '0': PYTHONPATH=/home/just-vitou/turtlebot3_workspace/build/potential_field/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/just-vitou/turtlebot3_workspace/install/potential_field/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/just-vitou/turtlebot3_workspace/build/potential_field/build --no-deps symlink_data

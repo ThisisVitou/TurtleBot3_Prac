@@ -1,0 +1,23 @@
+[3.177s] Invoking command in '/home/just-vitou/turtlebot3_workspace/build/chinabug_nav': PYTHONPATH=/home/just-vitou/turtlebot3_workspace/build/chinabug_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/just-vitou/turtlebot3_workspace/install/chinabug_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/just-vitou/turtlebot3_workspace/build/chinabug_nav/build --no-deps symlink_data
+[4.155s] running develop
+[4.983s] running egg_info
+[4.983s] creating chinabug_nav.egg-info
+[4.984s] writing chinabug_nav.egg-info/PKG-INFO
+[4.985s] writing dependency_links to chinabug_nav.egg-info/dependency_links.txt
+[4.985s] writing entry points to chinabug_nav.egg-info/entry_points.txt
+[4.985s] writing requirements to chinabug_nav.egg-info/requires.txt
+[4.985s] writing top-level names to chinabug_nav.egg-info/top_level.txt
+[4.985s] writing manifest file 'chinabug_nav.egg-info/SOURCES.txt'
+[4.991s] reading manifest file 'chinabug_nav.egg-info/SOURCES.txt'
+[4.991s] writing manifest file 'chinabug_nav.egg-info/SOURCES.txt'
+[4.997s] running build_ext
+[4.997s] Creating /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/lib/python3.10/site-packages/chinabug-nav.egg-link (link to .)
+[4.998s] 
+[4.998s] Installed /home/just-vitou/turtlebot3_workspace/build/chinabug_nav
+[4.999s] running symlink_data
+[5.002s] creating /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/ament_index
+[5.003s] creating /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/ament_index/resource_index
+[5.003s] creating /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/ament_index/resource_index/packages
+[5.005s] symbolically linking /home/just-vitou/turtlebot3_workspace/build/chinabug_nav/resource/chinabug_nav -> /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/ament_index/resource_index/packages
+[5.006s] symbolically linking /home/just-vitou/turtlebot3_workspace/build/chinabug_nav/package.xml -> /home/just-vitou/turtlebot3_workspace/install/chinabug_nav/share/chinabug_nav
+[5.106s] Invoked command in '/home/just-vitou/turtlebot3_workspace/build/chinabug_nav' returned '0': PYTHONPATH=/home/just-vitou/turtlebot3_workspace/build/chinabug_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/just-vitou/turtlebot3_workspace/install/chinabug_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/just-vitou/turtlebot3_workspace/build/chinabug_nav/build --no-deps symlink_data

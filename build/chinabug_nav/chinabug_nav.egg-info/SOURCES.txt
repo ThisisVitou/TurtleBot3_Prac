@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+chinabug_nav/__init__.py
+chinabug_nav/laserscan.py
+chinabug_nav.egg-info/PKG-INFO
+chinabug_nav.egg-info/SOURCES.txt
+chinabug_nav.egg-info/dependency_links.txt
+chinabug_nav.egg-info/entry_points.txt
+chinabug_nav.egg-info/requires.txt
+chinabug_nav.egg-info/top_level.txt
+chinabug_nav.egg-info/zip-safe
+resource/chinabug_nav

@@ -1,0 +1,1 @@
+/home/just-vitou/turtlebot3_workspace/src/DynamixelSDK/ros/dynamixel_sdk/include/dynamixel_sdk/group_fast_sync_read.h

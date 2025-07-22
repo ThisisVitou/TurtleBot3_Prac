@@ -1,0 +1,9 @@
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/uninstall.dir
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/turtlebot3_bringup_uninstall.dir
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/test.dir
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/edit_cache.dir
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/rebuild_cache.dir
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/list_install_components.dir
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/install.dir
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/install/local.dir
+/home/just-vitou/turtlebot3_workspace/build/turtlebot3_bringup/CMakeFiles/install/strip.dir
