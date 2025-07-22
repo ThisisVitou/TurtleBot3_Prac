@@ -1,1 +1,0 @@
-/home/just-vitou/turtlebot3_workspace/src/DynamixelSDK/ros/dynamixel_sdk/src/dynamixel_sdk/group_fast_bulk_read.cpp

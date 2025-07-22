@@ -1,1 +1,0 @@
-/home/just-vitou/turtlebot3_workspace/src/DynamixelSDK/ros/dynamixel_sdk/src/dynamixel_sdk/robotis_def.py
